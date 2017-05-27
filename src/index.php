@@ -1,5 +1,5 @@
 <?php
 
-
+$hola = "Hola mundo";
 
 ?>  
